@@ -1,0 +1,43 @@
+header > h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30pt;
+    margin: auto;
+    text-align: center;
+    padding: 25px;
+}
+
+main {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #00000075;
+    width: 700px;
+    height: 400px;
+    margin: auto;
+}
+
+main > div {
+    margin: auto;
+    text-align: center;
+}
+
+main > div#horario {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15pt;
+    padding: 20px;
+}
+
+main > div > img#imagem {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+
+footer > p {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15pt;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+}
